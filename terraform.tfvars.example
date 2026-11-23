@@ -1,0 +1,4 @@
+region          = "germanywestcentral"
+vm_size         = "Standard_D2als_v6"
+vm_zone         = null
+rdp_source_cidr = "203.0.113.10/32" # Sustituye este ejemplo por tu IPv4 pública /32.
